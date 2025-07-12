@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+Caesar Cipher encryption and decryption tool using Python
 
 This project implements a basic Caesar Cipher encryption and decryption tool using Python. The program accepts a message and a numeric shift value to produce an encrypted message and then decrypts it back to the original form.
 
